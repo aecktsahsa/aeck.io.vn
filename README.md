@@ -1,1 +1,1 @@
-# Chuyển hướng aeck.io.vn sang aeck.edu.vn
+# Chuyển hướng aeck.io.vn sang tailieu.aeck.edu.vn
